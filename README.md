@@ -11,13 +11,13 @@
  - Browse
     - Header 
       -main movie
-         -trailer in background
-         -title and description
-         -movie suggestions
-           -movies list  with horizontal scroll
+        -trailer in background
+        -title and description
+        -movie suggestions
+              -movies list  with horizontal scroll
 
- -NetflixGpt 
-    -searbar
+ -NetflixGpt
+    -search bar
     -Movie suggestions
 
 
