@@ -7,6 +7,7 @@
  - login/logout
     -sign in/ sign out
     -redirect  to browse
+-login form
   
  - Browse
     - Header 
@@ -19,6 +20,6 @@
  -NetflixGpt
     -search bar
     -Movie suggestions
-
+   
 
 
